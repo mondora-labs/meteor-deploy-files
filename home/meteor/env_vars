@@ -1,0 +1,5 @@
+#!/bin/bash
+export PORT='3000'
+export MONGO_URL='mongodb://MONGO_IP:_MONGO_PORT/DATABASE_NAME'
+export MAIL_URL='smtp://USERNAME:PASSWORD@SMTP_HOST:SMTP_PORT/'
+export ROOT_URL='https://example.com'
